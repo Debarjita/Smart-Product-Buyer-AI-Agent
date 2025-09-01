@@ -32,7 +32,7 @@ The agent follows a structured workflow using LangGraph's state management:
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/yourusername/smart-car-buyer-agent.git
+git clone https://github.com/Debarjita/smart-car-buyer-agent.git
 cd smart-car-buyer-agent
 ```
 
